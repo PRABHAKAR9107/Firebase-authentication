@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PRABHAKAR9107/Firebase-authentication/static/css/main.3d8ac20a.chunk.css",
+    "main.js": "/PRABHAKAR9107/Firebase-authentication/static/js/main.e34b4b00.chunk.js",
+    "main.js.map": "/PRABHAKAR9107/Firebase-authentication/static/js/main.e34b4b00.chunk.js.map",
+    "runtime-main.js": "/PRABHAKAR9107/Firebase-authentication/static/js/runtime-main.b9cb8f93.js",
+    "runtime-main.js.map": "/PRABHAKAR9107/Firebase-authentication/static/js/runtime-main.b9cb8f93.js.map",
+    "static/css/2.5303dbd9.chunk.css": "/PRABHAKAR9107/Firebase-authentication/static/css/2.5303dbd9.chunk.css",
+    "static/js/2.0082273f.chunk.js": "/PRABHAKAR9107/Firebase-authentication/static/js/2.0082273f.chunk.js",
+    "static/js/2.0082273f.chunk.js.map": "/PRABHAKAR9107/Firebase-authentication/static/js/2.0082273f.chunk.js.map",
+    "index.html": "/PRABHAKAR9107/Firebase-authentication/index.html",
+    "static/css/2.5303dbd9.chunk.css.map": "/PRABHAKAR9107/Firebase-authentication/static/css/2.5303dbd9.chunk.css.map",
+    "static/css/main.3d8ac20a.chunk.css.map": "/PRABHAKAR9107/Firebase-authentication/static/css/main.3d8ac20a.chunk.css.map",
+    "static/js/2.0082273f.chunk.js.LICENSE.txt": "/PRABHAKAR9107/Firebase-authentication/static/js/2.0082273f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9cb8f93.js",
+    "static/css/2.5303dbd9.chunk.css",
+    "static/js/2.0082273f.chunk.js",
+    "static/css/main.3d8ac20a.chunk.css",
+    "static/js/main.e34b4b00.chunk.js"
+  ]
+}
